@@ -2,3 +2,6 @@ Titulo
 
 Añado funcion 1
 Añado funcion 2
+
+Añado una funcion prueba
+>>>>>>> 6023185e5fd37e9340040ae3fe3ccc18cf141e7c
