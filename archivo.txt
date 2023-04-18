@@ -1,3 +1,5 @@
 Titulo
 
-Añado una funcion
+Añado funcion 1
+Añado funcion 2
+
