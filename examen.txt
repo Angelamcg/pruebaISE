@@ -1,2 +1,7 @@
 HOLAAAAA!
+<<<<<<< HEAD
 Editado
+
+Editado por prueba_ex
+
+
